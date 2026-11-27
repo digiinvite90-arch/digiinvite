@@ -1,0 +1,7 @@
+/* Colours of the five invitation designs */
+.theme-rose{--bg:linear-gradient(170deg,#3b1520,#7a3b34 40%,#76506c);--fg:#fff4dc;--accent:#f0cd7c;--btn:#f6a9bd;--btn-text:#3b1520}
+.theme-nikah{--bg:linear-gradient(170deg,#04211a,#0e5844 55%,#073427);--fg:#f6f1dd;--accent:#e6c575;--btn:#e6c575;--btn-text:#08291f}
+.theme-blossom{--bg:linear-gradient(170deg,#fffaf7,#f9e0e3 55%,#f3e9e4);--fg:#533d43;--accent:#a23c5c;--btn:#a23c5c;--btn-text:#fff}
+.theme-midnight{--bg:linear-gradient(170deg,#040817,#182a55 55%,#0a1029);--fg:#e9edf8;--accent:#e3c27c;--btn:#e3c27c;--btn-text:#0a1029}
+.theme-marigold{--bg:linear-gradient(170deg,#fff7d6,#ffe19a 55%,#fff0c2);--fg:#47290f;--accent:#9b1c27;--btn:#9b1c27;--btn-text:#fff6d5}
+.script{font-family:'Great Vibes',cursive;color:var(--accent);line-height:1.15}
